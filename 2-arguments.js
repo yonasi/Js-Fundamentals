@@ -4,5 +4,5 @@ if (args === 2) {
 } else if (args === 3) {
   console.log("1 argument");
 } else {
-  console.log("Arguments found");
+  console.log("Argument found");
 }
